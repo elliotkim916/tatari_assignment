@@ -1,4 +1,4 @@
-#Tatari Assignment
+# Tatari Assignment
 
 ## Installation
 Clone the repo & run npm install
@@ -7,7 +7,7 @@ Clone the repo & run npm install
 npm start
 
 
-##Rotations 
+## Rotations 
 
 Start End Name
 6:00AM 12:00PM Morning
@@ -15,7 +15,7 @@ Start End Name
 4:00PM 8:00PM Prime
 
 
-##Spots
+## Spots
 
 Date Time Creative Spend Views
 1/2/16 8:30AM TEST001H 120.5 100
