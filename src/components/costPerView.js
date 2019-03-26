@@ -10,7 +10,7 @@ import React from 'react';
 // When copying and pasting the given csv files as is into the textareas, React wouldn't properly add spaces for each item from each row.
 // Therefore, in the data.csv file, I have the rotations and spots formatted correctly, identical to what is given in the csv files, 
 // with the only difference of removing spaces within the times as stated above.
-// Users can copy and paste the rotations and spots from the data.csv file use this React application.
+// Users can copy and paste the rotations and spots from the data.csv file to use this React application.
 // Rotations and spots must be in the format as is in the data.csv file for the React application to work properly.
 
 // 3) I assumed to show both the CPV by creative and CPV by rotation by day at the same time once the user submitted their data.
