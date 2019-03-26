@@ -5,7 +5,8 @@ import React from 'react';
 // I assumed that was a mistake and changed Afternoon to 12:00PM to 4:00PM.
 
 // 2) Users will copy and paste rotations.csv and spots.csv into the respective textarea.
-// Within the csv files, I assumed there would be no spaces within the times. For example, all the times would be entered as '6:00AM', NOT '6:00 AM'.
+// Within the csv files, I assumed there would be no spaces within the times. 
+// For example, all the times would be entered as '6:00AM', NOT '6:00 AM'.
 // When copying and pasting the given csv files as is into the textareas, React wouldn't properly add spaces for each item from each row.
 // Therefore, in the data.csv file, I have the rotations and spots formatted correctly, identical to what is given in the csv files, 
 // with the only difference of removing spaces within the times as stated above.
